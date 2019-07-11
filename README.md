@@ -1,4 +1,4 @@
-#snake-py
+# snake-py
 
 Fork of https://gist.github.com/sanchitgangwar/2158089
 
